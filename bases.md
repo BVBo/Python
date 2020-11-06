@@ -1,7 +1,7 @@
 # Assignation d'une valeur à une variable
 
 - Python est un langage dynamique et fortement typé
-- **Dynamique** : pas besoin de dire à Python quel est le type de variable 
+- **Dynamique** : pas besoin de dire à Python quel est le type de la variable 
 >- a = "ville" ou a = 75 
 - **Fotement typé** : on peut changer le type d'une variable à tout moment
 - on ne peut pas additionner deux variables de types différents
