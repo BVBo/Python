@@ -22,7 +22,7 @@ a = b = c = 5
 - le nom d'une variable doit commencet par une lettre ou "_"
 - le nom d'une variable ne peut contenir que des lettres, des nombres et des "_"
 - l'usage des caractères spéciaux dans les noms de nos variables n'est pas permis (Python 3 accepte les accents).
-- les noms de variables sonty sensibles à la casse
+- les noms de variables sont sensibles à la casse
 - nom de variables en miniscule "nom_de_famille"
 - nom de variable réservés, comme "False" "True" "Print"
  
