@@ -33,3 +33,20 @@ Signe | Définition | Utilisation
 ==    | Egal à| isTrue( x == y)
 !=    | Différent de| isTrue( x != y)
 
+## Différence entre is et =
+
+```python
+a is b
+```
+Ce code vérifie si l'objet a et l'objet b sont identiques, c'est à dire qu'il on la même adresse id en mémoire
+```python
+a = 1000
+b = 1000
+a == b
+```
+Ce code vérifie si les variables ont la même valeur.Particularité : les nombres [-5;256] ont le même id en mémoire
+```python
+a = 256
+b = 256
+a == b
+``` True
