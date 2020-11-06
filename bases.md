@@ -32,7 +32,7 @@ a = b = c = 5
  
 - int()
 - str()
-- Bien penser affecter le retour d'une fonction de conversion à une variable = = in(a)
+- Bien penser affecter le retour d'une fonction de conversion à une variable == int(a)
  
  ## Fonction type()
  
