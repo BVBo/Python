@@ -50,3 +50,9 @@ a = 256
 b = 256
 a == b
 ``` True
+
+# Opérateurs logiques(OR, AND et NOT)
+
+CONDITION 1 | Opérateur | CONDITION 1| = | RESULTAT |
+--- | --- | --- | --- | ---
+=     | TRUE | and | xxx | yyyy
