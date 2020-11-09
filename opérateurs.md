@@ -49,7 +49,8 @@ Ce code vérifie si les variables ont la même valeur.Particularité : les nombr
 a = 256
 b = 256
 a == b
-``` True
+```   True
+
 
 # Opérateurs logiques(OR, AND et NOT)
 
