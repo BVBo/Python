@@ -45,11 +45,13 @@ b = 1000
 a == b
 ```
 Ce code vérifie si les variables ont la même valeur.Particularité : les nombres [-5;256] ont le même id en mémoire
+
 ```python
 a = 256
 b = 256
 a == b
-```   True
+```
+
 
 
 # Opérateurs logiques(OR, AND et NOT)
