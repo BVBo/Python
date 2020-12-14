@@ -18,6 +18,7 @@ a = b = c = 5
 
 # Règles et conventions
  
+## Les Strings
 - Mettre un espace avant et après le signe "="
 - le nom d'une variable doit commencet par une lettre ou "_"
 - le nom d'une variable ne peut contenir que des lettres, des nombres et des "_"
@@ -25,6 +26,10 @@ a = b = c = 5
 - les noms de variables sont sensibles à la casse
 - nom de variables en miniscule "nom_de_famille"
 - nom de variable réservés, comme "False" "True" "Print"
+
+## Les nombres
+- Pour définir un nombre décimal, on utilise le point (.) et non pas la virgule
+- La virgule sert à séparer les éléments les uns des autres.
  
 # Fonctions de base
 
